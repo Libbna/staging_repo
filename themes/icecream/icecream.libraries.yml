@@ -1,0 +1,7 @@
+icecream-style:
+  version: 1.0
+  css:
+    theme:
+      css/fonts.css: {weight: 10}
+  dependencies:
+    - core/jquery
